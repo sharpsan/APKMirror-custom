@@ -8,7 +8,7 @@ android {
         minSdkVersion 16
         targetSdkVersion 27
         /*versionName "3.5"*/
-        versionName "3.5-ad-blocker-patch-by-moatist"
+        versionName "3.5-no-download-wait-patch-by-moatist"
         versionCode 20180128
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
